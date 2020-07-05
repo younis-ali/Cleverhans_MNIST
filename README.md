@@ -11,7 +11,7 @@ Usage
 !pip install tensorflow-gpu==1.15
 we can use cpu version of tensorflow if GPU is not available
 
-3. Pun the python file before this make Cleverhans_MNIST_FGSM PWD
+3. Run the python file before this make Cleverhans_MNIST_FGSM PWD
 %cd Cleverhans_MNIST_FGSM
 !python cleverhansMNIST_FGSM.py
 
